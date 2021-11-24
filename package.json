@@ -1,0 +1,24 @@
+{
+  "name": "learningMpesaAPI",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Isco170/learningMpesaAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Isco170/learningMpesaAPI/issues"
+  },
+  "homepage": "https://github.com/Isco170/learningMpesaAPI#readme",
+  "dependencies": {
+    "@paymentsds/mpesa": "0.1.0-alpha-9",
+    "express": "^4.17.1"
+  }
+}
