@@ -1,9 +1,6 @@
 var axios = require('axios').default;
 const config = require('../config');
 
-
-
-
 async function c2b(request, response) {
     const { numero, valor } = request.body;
     if (!numero)
